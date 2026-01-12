@@ -1,0 +1,7 @@
+region              = "ap-southeast-2"
+backend_bucket_name = "kevin-tf-state-20260112-938472"
+lock_table_name     = "terraform-locks"
+
+tags = {
+  owner = "kevin"
+}

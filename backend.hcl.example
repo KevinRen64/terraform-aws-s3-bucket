@@ -1,0 +1,5 @@
+bucket         = "kevin-tf-state-20260112-938472"
+key            = "tf-s3-bucket/dev/terraform.tfstate"
+region         = "ap-southeast-2"
+dynamodb_table = "terraform-locks"
+encrypt        = true
