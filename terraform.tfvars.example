@@ -1,0 +1,10 @@
+bucket_name = "kevin-tf-s3-demo-123456"
+env         = "dev"
+region      = "ap-southeast-2"
+
+tags = {
+  owner = "kevin"
+  app   = "tf004"
+}
+
+# db_password = "DO_NOT_COMMIT_REAL_SECRETS"
